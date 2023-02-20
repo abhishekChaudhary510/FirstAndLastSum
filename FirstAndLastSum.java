@@ -18,3 +18,4 @@ public class FirstAndLastSum {
         System.out.println("The computation of first and last is :"+(sum1+number%10));
     }
 }
+//cool
